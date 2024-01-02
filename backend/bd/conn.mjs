@@ -14,5 +14,5 @@ try {
   console.error(e);
 }
 
-let db = conn.db("test");
+let db = conn.db("acad");
 export default db;
